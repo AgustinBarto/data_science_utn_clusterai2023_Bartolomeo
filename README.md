@@ -36,11 +36,11 @@ Subscription: Si el cliente accede a la campaña (1) o no (0). Variable a predec
 clusterai_bruno_acosta_transformaciones.ipynb
 En este archivo se encuentran todas las funciones que transforman el data set para que pueda ser procesado por los modelos de machine learning. Se importan por medio de la libreria ipyn.
 
-clusterai_bruno_acosta_eda.ipynb
+clusterai_Agustin_Bartolomeo_eda.ipynb
 En este archivo se encuentra el análisis exploratorio de los datos.
 
-clusterai_bruno_acosta_transformations.ipynb
+clusterai_Agustin_Bartolomeo_transformations.ipynb
 En este archivo se encuentra el entrenamiento y análisis de varios modelos de machine learning, seguido por una reducción de dimensionalidad y nuevo entrenamiento de modelo.
 
-clusterai_reporte_acosta.pdf
+clusterai_reporte_Bartolomeo.pdf
 Este es el reporte final donde se detallan los algoritmos usados y los resultados obtenidos.
